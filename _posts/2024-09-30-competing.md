@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Why I like BJJ competitions"
 date:   2024-09-29 20:37:00 +0200
 categories: bjj
 share: false
