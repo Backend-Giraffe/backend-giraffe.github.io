@@ -25,13 +25,13 @@ title: Backend-Giraffe
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about things that come to my mind.
-baseurl: "/blog"
+baseurl: ""
 url: "https://backend-giraffe.github.io"
 logo: images/giraffe.jpg
 date_format: "%B %-d, %Y"
 
 github_username:  backend-giraffe
-copyright: "© 2024 Jan Evers. All Rights Reserved."
+copyright: "© 2024 Jan Evers. Powered by Jekyll and So Simple"
 
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
