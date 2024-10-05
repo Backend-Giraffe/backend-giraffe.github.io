@@ -5,6 +5,6 @@
 layout: home
 excerpt: "My experimental blog to try out blogging"
 show_excerpts: true
-paginate: true
+paginate: false
 entries_layout: list
 ---
